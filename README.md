@@ -1,4 +1,4 @@
-# Pitchfork-Reviews
+# Pitchfork Music Reviews
 Exploring Pitchfork Reviews kaggle dataset
 
 Dataset: https://www.kaggle.com/nolanbconaway/pitchfork-data
