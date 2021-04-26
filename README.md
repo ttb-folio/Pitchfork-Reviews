@@ -7,9 +7,13 @@ Binary Classification of Pitchfork Reviews by conducting sentiment analysis on r
 Reviews Score (0-10 scale) is transformed into two classes by thresholding on the median score.
 
 Data Loading -> Takes sqlite database from kaggle and creates csv files into Data Folder.
+
 EDA -> Some plots (Seaborn)
+
 Baseline Sentiment Analysis -> Random Model and Logistic Regression (sklearn)
+
 Sentiment Analysis Classifier GPU -> DistiBERT model (HuggingFace)
+
 Sentiment Analysis TPU -> Code modified to run on TPU using PyTorch XLA.
 
 To view pandas-profiling reports in ProfileReports folder, use: https://htmlpreview.github.io
